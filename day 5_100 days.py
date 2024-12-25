@@ -10,6 +10,7 @@
 # else:
 #    print("Woof")
 # __________________________________
+print()
 print("Marvel Movie Character Creater")
 print("--")
 print(" ")

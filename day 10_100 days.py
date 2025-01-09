@@ -32,7 +32,7 @@
 print("Tip Calculator")
 print(" ")
 myBill=float(input("How much did you spend? "))
-myTip=float(input("What percentage ou want to tip? "))
+myTip=float(input("What percentage you want to tip? "))
 numberOfPeople=int(input("How many people in your group? "))
 billWithTip=myTip/100*myBill+myBill
 # print("Total Bill With Tip",billWithTip)

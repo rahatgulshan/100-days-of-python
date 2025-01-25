@@ -32,10 +32,11 @@
 # print("I don't like red")
 
 # ___________________________________
+
 counter=0
 print("Fill in the blank lyrics!")
 print()
-print("\(Type in the blank lyrics and see if you are as cool as me.)")
+print("\(Type in the blank lyrics and see! if you are as cool as me.)")
 print()
 while True:
    word=input("Never going to ______ you up.\n")
